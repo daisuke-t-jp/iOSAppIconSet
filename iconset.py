@@ -37,6 +37,7 @@ if __name__ == '__main__':
     sys.exit('Please specify an image file.')
 
   srcImage = Image.open(sys.argv[1])
+  srcImage = srcImage.convert("RGB")
   width, height = srcImage.size
   if width < ICON_SIZE_ARRAY[-1] or height < ICON_SIZE_ARRAY[-1]:
     sys.exit('The width and height must be least 1024 px.')
