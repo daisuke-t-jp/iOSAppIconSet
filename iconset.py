@@ -1,3 +1,4 @@
+# Create iOS AppIcon.appiconset from an image file.
 #
 # References:
 # - https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/
