@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/daisuke-t-jp/iOSAppIconSet/master/sample.png" width="160"></br>
+
 # iOSAppIconSet
 Create iOS [AppIcon.appiconset](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon) from an image file.
 
